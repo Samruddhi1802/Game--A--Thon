@@ -1,6 +1,6 @@
 # Game--A--Thon INTRODUCTION TO GIT AND GITHUB
 # Name: Samruddhi Uplapwar
-# problem Statement 1:Program to Add Two Integers.
+# Problem Statement 1:Program to Add Two Integers.
 TestCase 1: input :11,12 output: 23
   
   #include <stdio.h>
@@ -19,7 +19,7 @@ int main() {
 }
 
 
-# problem Statement 1:Find the Largest of Two Numbers.
+# Problem Statement 1:Find the Largest of Two Numbers.
 TestCase 1: input :10,40 output: 40 
 
 #include <stdio.h>  
